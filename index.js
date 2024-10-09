@@ -36,7 +36,7 @@ function mostrarImagem() {
 
 function esconderImagemAberta(){
     const imagemAberta = document.querySelector(".mostrar");
-    imagemAberta.classList.remove("mostar");
+    imagemAberta.classList.remove("mostrar");
 }
 
 function mostrarOuEsconderSetas(){
